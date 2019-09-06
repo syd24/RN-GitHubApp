@@ -1,0 +1,4 @@
+#Fri Sep 06 13:21:37 CST 2019
+base.0=/Users/ada/Desktop/RN(demo)/flatlist/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
